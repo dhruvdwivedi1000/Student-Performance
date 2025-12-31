@@ -14,22 +14,11 @@ def get_requirements(file_path: str) -> List[str]:
             requirements.remove(HYPEN_E_DOT)
     return requirements
 
-
-
-
-
-
-
-
-
-
-
-
-
-setup(    name="my_package",
+setup(   
+    name="my_package",
     version="0.1.0",
     author="Dhruv",
     author_email="dhruvdwivedi1000@gmail.com",
     packages=find_packages(),
-    install_requires=get_requirements("Requirements.txt")
+    install_requires=get_requirements("Requirement.txt")
 )
