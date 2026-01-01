@@ -1,0 +1,8 @@
+[2026-01-01 15:10:48,656] 7 root INFO - Application started
+[2026-01-01 15:10:48,656] 9 root INFO - Application finished
+[2026-01-01 15:10:48,656] 17 root INFO - Establishing connection to the database
+[2026-01-01 15:10:48,669] 26 root INFO - Connection established successfully: <pymysql.connections.Connection object at 0x000002AA708A0E80>
+[2026-01-01 15:10:48,699] 32 root INFO - Data fetched successfully from student_perfromance table
+[2026-01-01 15:10:48,713] 43 root INFO - Database connection closed
+[2026-01-01 15:10:48,714] 25 root INFO - Reading from MySQL database
+[2026-01-01 15:10:48,732] 32 root INFO - Data ingestion completed successfully
