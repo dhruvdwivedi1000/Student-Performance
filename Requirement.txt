@@ -1,2 +1,7 @@
 numpy
 Pandas
+mysql-connector-python
+pymysql
+python-dotenv
+scikit-learn
+#-e .
