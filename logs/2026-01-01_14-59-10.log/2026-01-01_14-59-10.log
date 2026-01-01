@@ -1,0 +1,5 @@
+[2026-01-01 14:59:12,285] 7 root INFO - Application started
+[2026-01-01 14:59:12,285] 9 root INFO - Application finished
+[2026-01-01 14:59:12,285] 17 root INFO - Establishing connection to the database
+[2026-01-01 14:59:12,334] 25 root INFO - Reading from MySQL database
+[2026-01-01 14:59:12,352] 32 root INFO - Data ingestion completed successfully

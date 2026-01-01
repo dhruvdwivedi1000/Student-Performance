@@ -1,0 +1,5 @@
+[2026-01-01 14:50:54,594] 7 root INFO - Application started
+[2026-01-01 14:50:54,595] 9 root INFO - Application finished
+[2026-01-01 14:50:54,595] 17 root INFO - Establishing connection to the database
+[2026-01-01 14:50:54,674] 25 root INFO - Reading from MySQL database
+[2026-01-01 14:50:54,675] 18 root INFO - Custom exception is being raised

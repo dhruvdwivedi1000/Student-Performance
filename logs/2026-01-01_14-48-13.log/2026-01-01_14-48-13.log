@@ -1,0 +1,4 @@
+[2026-01-01 14:48:15,041] 7 root INFO - Application started
+[2026-01-01 14:48:15,041] 9 root INFO - Application finished
+[2026-01-01 14:48:15,041] 17 root INFO - Establishing connection to the database
+[2026-01-01 14:48:15,224] 18 root INFO - Custom exception is being raised
