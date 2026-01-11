@@ -1,0 +1,9 @@
+[2026-01-11 15:22:00,801] 9 root INFO - Application started
+[2026-01-11 15:22:00,801] 11 root INFO - Application finished
+[2026-01-11 15:22:00,805] 25 root INFO - Reading from MySQL database
+[2026-01-11 15:22:00,817] 32 root INFO - Data ingestion completed successfully
+[2026-01-11 15:22:00,838] 71 root INFO - Reading the train and test file
+[2026-01-11 15:22:00,838] 50 root INFO - Categorical Columns:['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2026-01-11 15:22:00,838] 51 root INFO - Numerical Columns:['writing_score', 'reading_score']
+[2026-01-11 15:22:00,845] 88 root INFO - Applying Preprocessing on training and test dataframe
+[2026-01-11 15:22:00,877] 99 root INFO - Saved preprocessing object
