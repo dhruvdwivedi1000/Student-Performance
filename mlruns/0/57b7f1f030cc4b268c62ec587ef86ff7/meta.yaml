@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Dhruv/OneDrive/Desktop/Student-Performance-Prediction/mlruns/0/57b7f1f030cc4b268c62ec587ef86ff7/artifacts
+end_time: 1768126347671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57b7f1f030cc4b268c62ec587ef86ff7
+run_name: caring-kit-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768126339408
+status: 3
+tags: []
+user_id: root
